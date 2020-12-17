@@ -1,0 +1,1 @@
+﻿Set-ADAccountExpiration -Identity bbarnes -TimeSpan 90.0:0   #will reset an accounts expiration or 90 days.    #bbarnes is the username
